@@ -1,0 +1,1 @@
+make we support box background white
